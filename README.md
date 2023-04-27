@@ -1,0 +1,2 @@
+## Celo Mobile Wallet Script using web3.py
+The script allows you to interact with Celo mobile wallet which you can use to see the balance of your wallet (CELO & CUSD), send funds from one celo account to another (either Celo native token or cUSD), and also check allows you check your transaction history
